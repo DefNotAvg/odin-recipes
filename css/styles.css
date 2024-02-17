@@ -1,0 +1,33 @@
+* {
+    background-color: #fceff9;
+    color: #454851;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+h1 {
+    font-size: 3rem;
+    text-align: center;
+}
+
+a,
+button {
+    display: block;
+}
+
+a:hover,
+button:hover {
+    background-color: #9fb69c;
+}
+
+a {
+    background-color: transparent;
+    font-size: 1.5rem;
+    padding: 1rem;
+}
+
+button {
+    background-color: #63815f;
+    width: 25rem;
+    margin: 1.25rem auto;
+    padding: 0;
+}
